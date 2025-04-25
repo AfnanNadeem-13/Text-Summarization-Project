@@ -12,7 +12,7 @@ Create a system that summarizes lengthy articles, blogs, or news into concise su
     - `test.csv` – Test data
 
 ## Technologies Used:
-- **Python 3.x**
+- **Python **
 - **Libraries**:
   - `pandas`: For data manipulation and reading CSV files.
   - `spaCy`: For extractive summarization.
